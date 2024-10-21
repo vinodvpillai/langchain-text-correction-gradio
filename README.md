@@ -19,6 +19,9 @@ This project is a **Document/Text Correction Application** built using **LangCha
 - **Gradio**: Provides an easy-to-use web interface for uploading files, entering text, and viewing results.
 - **OpenAI GPT**: Used for generating grammar corrections and rewriting the text based on user preferences.
 
+## Final Result
+![](demo.gif)
+
 ## Installation
 
 1. **Clone the repository**:
